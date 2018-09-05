@@ -1,0 +1,26 @@
+{
+  "name": "graph-example",
+  "version": "1.0.0",
+  "description": "This is a graph I created using D3.js",
+  "main": "chart.js",
+  "dependencies": {
+    "d3-fetch": "^1.1.2",
+    "fs": "^0.0.1-security",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamescresswell72/graph-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamescresswell72/graph-example/issues"
+  },
+  "homepage": "https://github.com/jamescresswell72/graph-example#readme"
+}
